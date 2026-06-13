@@ -4,28 +4,27 @@ Senior DevSecOps & Cybersecurity Engineer at TCPWave
 
 ## About Me
 
-- Senior DevSecOps / Cybersecurity Engineer
+- 6+ Years in Cybersecurity & DevSecOps
+- Product Security Engineering
+- Secure SDLC & Vulnerability Management
 - DNS, DHCP, IPAM and ADC Security
 - CEH Certified
 - OSCP (In Progress)
-- Secure SDLC, Vulnerability Management, DevSecOps
-- Application Security and Penetration Testing
 
 ## Featured Projects
 
 ### OpenSentinel
-Autonomous Vulnerability Intelligence Platform built with Python, Flask, SQLite, REST APIs and analytics dashboards.
+Autonomous Vulnerability Intelligence Platform with CVE intelligence, analytics, authentication, SQLite backend and REST APIs.
 
 ### Pipeline Guardian
-DevSecOps Security Pipeline platform with Jenkins, Semgrep, Snyk, Trivy and security gate enforcement.
+DevSecOps Security Pipeline platform featuring Jenkins, Semgrep, Snyk, Trivy and severity-based security gates.
 
 ### AttackMapper
 MITRE ATT&CK detection mapping platform with search, coverage analytics and technique visualization.
 
-## Technical Skills
+## Core Skills
 
 ### Security
-
 - Vulnerability Management
 - Secure SDLC
 - Application Security
@@ -34,7 +33,6 @@ MITRE ATT&CK detection mapping platform with search, coverage analytics and tech
 - Security Architecture
 
 ### DevSecOps
-
 - Jenkins
 - GitHub
 - GitLab
@@ -46,7 +44,6 @@ MITRE ATT&CK detection mapping platform with search, coverage analytics and tech
 - SonarQube
 
 ### Technologies
-
 - Python
 - Flask
 - Linux
@@ -62,7 +59,8 @@ MITRE ATT&CK detection mapping platform with search, coverage analytics and tech
 ## Current Focus
 
 - DevSecOps Automation
-- Application Security
+- Product Security
 - Vulnerability Intelligence
 - Detection Engineering
+- AI-Augmented Security Operations
 
