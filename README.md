@@ -1,52 +1,68 @@
-# Hi, I'm Vinay Butty 👋
+# Hi, I'm Vinay Butty
 
-Lead DevSecOps & Product Security Engineer
+Senior DevSecOps & Cybersecurity Engineer at TCPWave
 
 ## About Me
 
-* DevSecOps Engineer with experience in Secure SDLC, Application Security, Vulnerability Management, Threat Modeling, and Infrastructure Security
-* Building AI-assisted security operations and security automation platforms
-* Interested in DevSecOps, Product Security, Detection Engineering, Threat Intelligence, and Offensive Security
-* Currently pursuing OSCP
-
-## Core Areas
-
-* Secure SDLC
-* DevSecOps
-* Vulnerability Management
-* Threat Modeling
-* Linux Security
-* CI/CD Security
-* Detection Engineering
-* AI for Security Operations
+- Senior DevSecOps / Cybersecurity Engineer
+- DNS, DHCP, IPAM and ADC Security
+- CEH Certified
+- OSCP (In Progress)
+- Secure SDLC, Vulnerability Management, DevSecOps
+- Application Security and Penetration Testing
 
 ## Featured Projects
 
 ### OpenSentinel
+Autonomous Vulnerability Intelligence Platform built with Python, Flask, SQLite, REST APIs and analytics dashboards.
 
-Autonomous vulnerability intelligence platform for CVE analysis, risk classification, and security advisory generation.
+### Pipeline Guardian
+DevSecOps Security Pipeline platform with Jenkins, Semgrep, Snyk, Trivy and security gate enforcement.
 
-### Covenant-Lite
+### AttackMapper
+MITRE ATT&CK detection mapping platform with search, coverage analytics and technique visualization.
 
-Infrastructure provisioning and security baseline automation using Terraform and Ansible.
+## Technical Skills
 
-### Security Intelligence Dashboard
+### Security
 
-Unified visibility platform for SAST, SCA, Secrets Scanning, and Compliance findings.
+- Vulnerability Management
+- Secure SDLC
+- Application Security
+- Threat Modeling
+- Penetration Testing
+- Security Architecture
 
-### AI Threat Modeler
+### DevSecOps
 
-Threat modeling automation using STRIDE and MITRE ATT&CK techniques.
+- Jenkins
+- GitHub
+- GitLab
+- Semgrep
+- Snyk
+- Trivy
+- OWASP Dependency Check
+- GitLeaks
+- SonarQube
+
+### Technologies
+
+- Python
+- Flask
+- Linux
+- Docker
+- SQL
+- REST APIs
+
+## Certifications
+
+- CEH
+- OSCP (In Progress)
 
 ## Current Focus
 
-* OSCP Preparation
-* AI-Augmented Security Operations
-* Detection Engineering
-* Security Automation
-* Infrastructure as Code Security
+- DevSecOps Automation
+- Application Security
+- Vulnerability Intelligence
+- Detection Engineering
 
-## Connect
-
-* LinkedIn: linkedin.com/in/vinayb
-* GitHub: github.com/vinayb-devsecops
