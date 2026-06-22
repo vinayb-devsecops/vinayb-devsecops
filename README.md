@@ -1,6 +1,6 @@
 # Hi, I'm Vinay Butty
 
-Senior Product Security & DevSecOps Engineer
+Senior Product Security Engineer | Security Platform Builder | DevSecOps
 
 Building security platforms, AI-assisted security operations, secure software delivery processes, and security governance frameworks for enterprise products.
 
@@ -14,58 +14,51 @@ Building security platforms, AI-assisted security operations, secure software de
 * Customer Security Assurance and Security Assessments
 * Application Security, Threat Modeling, and Detection Engineering
 
-## Security Platform Engineering
+## Security Program Ownership
 
-Designing and building security platforms that improve visibility, automate security workflows, accelerate remediation, and support security decision-making.
+Experience building and operating security capabilities across:
 
-Focus Areas:
-
-* Vulnerability Intelligence Platforms
-* Security Operations Dashboards
-* Security Metrics and Reporting
-* Advisory Management Workflows
-* Security Data Platforms
-* Risk Analytics and Reporting
+* Secure SDLC Programs
+* Product Security
+* Vulnerability Management
+* Security Governance
+* Customer Security Assurance
+* Security Advisory Management
+* Threat Modeling
+* Security Platform Engineering
 * AI-Assisted Security Operations
 
-## Product Security
+Focused on enabling engineering teams to ship securely while improving visibility, automation, governance, and risk management across the software development lifecycle.
 
-Securing enterprise platforms through:
+## Flagship Security Platforms
 
-* Secure SDLC
-* Threat Modeling
-* Vulnerability Management
-* Security Architecture Reviews
-* Security Testing
-* Security Advisory Management
-* Responsible Disclosure Handling
+### Security Command Center
 
-Specialization Areas:
-
-* DNS Security
-* DHCP Security
-* IPAM Security
-* ADC Security
-* Microservices Security
-* API Security
-
-## Featured Projects
+Centralized Security Operations, Governance, Risk, Compliance, and Executive Reporting Platform providing visibility into security posture, risk exposure, compliance readiness, customer security assurance activities, and security program health.
 
 ### OpenSentinel
 
-AI-Assisted Vulnerability Intelligence Platform providing vulnerability analytics, risk classification, security workflows, reporting, and security operations visibility.
-
-### DDI Security Lab
-
-DNS, DHCP, and IPAM security assessment, detection engineering, threat hunting, and security validation framework.
+AI-Assisted Vulnerability Intelligence and Security Operations Platform supporting vulnerability intelligence collection, risk classification, security analytics, advisory workflows, governance reporting, and executive visibility.
 
 ### Pipeline Guardian
 
-DevSecOps security orchestration platform integrating security scanning, security gates, remediation workflows, and release validation.
+DevSecOps Security Platform integrating security scanning, release gates, vulnerability validation, remediation workflows, and security policy enforcement across CI/CD pipelines.
+
+### AttackMapper
+
+Detection Engineering and MITRE ATT&CK Coverage Platform enabling ATT&CK coverage analysis, detection mapping, threat hunting support, monitoring gap identification, and security operations reporting.
+
+### DDI Security Lab
+
+Product Security Platform focused on DNS, DHCP, and IPAM security assessments, detection engineering, threat hunting methodologies, attack simulations, and security validation.
+
+### Covenant Lite
+
+Infrastructure Security Platform delivering infrastructure provisioning, security baseline enforcement, hardening automation, environment validation, and operational readiness workflows.
 
 ### Security Blueprints
 
-Security governance, Secure SDLC, vulnerability management, threat modeling, customer security assessment, and security program frameworks.
+Security Governance Platform providing Secure SDLC frameworks, vulnerability management lifecycles, threat modeling methodologies, security advisory workflows, governance models, and security program operating procedures.
 
 ## AI-Assisted Security Operations
 
@@ -140,14 +133,4 @@ Experience supporting and operationalizing:
 ## Certifications
 
 * Certified Ethical Hacker (CEH)
-
-## Repositories
-
-* OpenSentinel
-* Pipeline Guardian
-* AttackMapper
-* Security Advisories
-* DDI Security Lab
-* Security Blueprints
-* Covenant Lite
 
